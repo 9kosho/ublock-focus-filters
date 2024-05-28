@@ -1,5 +1,6 @@
 reddit.com##div[id="siteTable"]
 reddit.com##div[class="siteTable"]
+reddit.com##main[id="main-content"]
 
 youtube.com##div[id="contents"]
 youtube.com##div[id="content"]
