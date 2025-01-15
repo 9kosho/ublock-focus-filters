@@ -1,6 +1,7 @@
 these are some custom ublock origin filters to be installed at "filter lists" -> "custom"
 
 you can put urls here by linking directly to the relevant text file like:
+
 `https://raw.githubusercontent.com/9kosho/ublock-focus-filters/refs/heads/main/general.txt`
 
 then if you update this file, the changes should propagate to whatever accounts you have subscribing to the filter file
