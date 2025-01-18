@@ -3,12 +3,8 @@ x.com##[aria-label="Timeline: Trending now" i]
 x.com##[aria-label="Who to follow" i]
 x.com##[aria-label="Subscribe to Premium" i]
 x.com##[aria-label="Trending" i]
-
-twitter.com##[aria-label$="Relevant people" i]
-twitter.com##[aria-label="Timeline: Trending now" i]
-twitter.com##[aria-label="Who to follow" i]
-twitter.com##[aria-label="Subscribe to Premium" i]
-twitter.com##[aria-label="Trending" i]
+x.com##[data-testid="GrokDrawer"]
+x.com##[aria-label="Grok actions"]
 
 youtube.com##ytd-reel-video-renderer
 youtube.com##ytd-rich-section-renderer
