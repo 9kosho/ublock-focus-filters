@@ -6,6 +6,10 @@ x.com##[aria-label="Trending" i]
 x.com##[aria-label*="grok" i]
 x.com##[data-testid*="grok" i]
 x.com##[aria-label*="business" i]
+x.com##[aria-label*="premium" i]
+x.com##[aria-label*="communities" i]
+x.com##[aria-label*="bookmarks" i]
+x.com##[aria-label*="messages" i]
 
 youtube.com##ytd-reel-video-renderer
 youtube.com##ytd-rich-section-renderer
