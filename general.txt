@@ -5,11 +5,12 @@ x.com##[aria-label="Subscribe to Premium" i]
 x.com##[aria-label="Trending" i]
 x.com##[aria-label*="grok" i]
 x.com##[data-testid*="grok" i]
-x.com##[aria-label*="business" i]
-x.com##[aria-label*="premium" i]
-x.com##[aria-label*="communities" i]
-x.com##[aria-label*="bookmarks" i]
-x.com##[aria-label*="jobs" i]
+x.com##[aria-label="Business" i]
+x.com##[aria-label="Premium" i]
+x.com##[aria-label="Communities" i]
+x.com##[aria-label="Bookmarks" i]
+x.com##[aria-label="Jobs" i]
+x.com##[aria-label="Post" i]
 
 youtube.com##ytd-reel-video-renderer
 youtube.com##ytd-rich-section-renderer
