@@ -11,6 +11,7 @@ x.com##[aria-label="Communities" i]
 x.com##[aria-label="Bookmarks" i]
 x.com##[aria-label="Jobs" i]
 x.com##[aria-label="Post" i]
+x.com##[aria-label="Verified Orgs" i]
 
 youtube.com##ytd-reel-video-renderer
 youtube.com##ytd-rich-section-renderer
